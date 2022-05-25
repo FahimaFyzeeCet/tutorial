@@ -17,7 +17,7 @@ from . import argbind
 from . import utils
 
 MAX_SOURCE_TIME = 10000
-LABELS = ['bass', 'drums', 'other', 'vocals']
+LABELS = ['C', 'T', 'M', 'B']
 
 def download():
     """Downloads required files for tutorial.
